@@ -5,6 +5,8 @@
 
 - 📫 How to reach me **audreyvbarrientos@gmail.com**
 
+- Other proyect with Linux (Scripts and Bash): [`Proyecto Sys Op.`](https://github.com/TomyVarasOviedo/S.O-Proyecto)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/audrey-barrientos-521379284/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/audrey-barrientos-521379284/" height="30" width="40" /></a>
